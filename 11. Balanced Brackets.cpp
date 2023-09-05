@@ -14,9 +14,9 @@ int main(){
             count++;
         }
         if (data[i]==')' || data[i]=='}' || data[i]==']'){
-            if( s.pop()=='(' && data[i]==')' ){
-                count--;
-            }
+            // if( s.pop()=='(' && data[i]==')' ){
+            //     count--;
+            // }
         }
     }
     if (count==0){
