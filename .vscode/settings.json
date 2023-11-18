@@ -4,6 +4,7 @@
         "string": "cpp",
         "string_view": "cpp",
         "__string": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "queue": "cpp"
     }
 }
